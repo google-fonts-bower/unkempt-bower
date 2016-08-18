@@ -1,0 +1,17 @@
+{
+    "name": "unkempt-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/unkempt-bower.git"
+    },
+    "description": "Unkempt font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
